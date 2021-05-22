@@ -21,11 +21,6 @@
 <br>
 <br>
 
-## Languages and tools I want to learn:
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="CSharp" width="30px" src="https://p92.com/binaries/content/gallery/p92website/technologies/c-sharp-overview.png" />
-<img align="left" alt="Nodejs" width="30px" src="https://nodejs.org/static/images/logo-hexagon-card.png" />
-
 
 <!---
 alba688/alba688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
