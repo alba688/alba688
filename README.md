@@ -1,5 +1,5 @@
 ## 👋  Hi, I’m Alexandra
-- 🤓  First year Frontend and mobile-development student at Kristiania University
+- 🤓  Second year Frontend and mobile-development student at Kristiania University
 - 📍  Living and studying in Bergen, Norway
 - 👀  I appreciate a good UI, high quality design, and micro animations
 - 🌱  I’m currently learning Java, OOP, JavaScript, Bulma CSS, animation
