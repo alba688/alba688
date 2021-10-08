@@ -7,7 +7,6 @@
 ## 📫  Get in touch
 <img align="left" alt="LinkedIn" width="22px" src="https://icons-for-free.com/iconfiles/png/512/in+linkedin+icon-1320192022493255796.png" />[www.linkedin.com/in/bakeralexandra](https://www.linkedin.com/in/bakeralexandra)
 <br>
-[Link to Google](https://www.google.com)
 <br>
 <img align="left" alt="Outlook" width="22px" src="https://findicons.com/files/icons/2795/office_2013_hd/128/outlook.png" /> <a href = "mailto: alba012@student.kristiania.no">alba012@student.kristiania.no</a>
 <br>
