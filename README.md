@@ -1,8 +1,6 @@
 ## 👋  Hi, I’m Alexandra
-- 🤓  Second year frontend and mobile development student at Kristiania University
-- 📍  Living and studying in Bergen, Norway
-- 👀  Appreciate good UI, high quality design, and micro animations
-- 🌱  Currently learning Java, OOP, JavaScript, React, Bootstraps, Bulma CSS, animation
+- 🤓  Second year frontend and mobile development student at Kristiania University College
+- 🌱  Currently learning Java, OOP, JavaScript, React, Bootstraps, Bulma CSS, interface design, prototyping, and micro-animation
 
 ## 📫  Get in touch
 <img align="left" alt="LinkedIn" width="22px" src="https://icons-for-free.com/iconfiles/png/512/in+linkedin+icon-1320192022493255796.png" />[www.linkedin.com/in/bakeralexandra](https://www.linkedin.com/in/bakeralexandra)
