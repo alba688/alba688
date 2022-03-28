@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=alba688)
+
+
 ## 👋  Hi, I’m Alexandra
 - 🤓  Second year frontend and mobile development student at Kristiania University College
 - 🌱  Currently learning Java, OOP, JavaScript, React, Bootstraps, Bulma CSS, interface design, prototyping, and micro-animation
@@ -26,8 +29,6 @@
 </div>
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=alba688)
-
 
 <!---
 alba688/alba688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
