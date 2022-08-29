@@ -2,8 +2,9 @@
 
 
 ## 👋  Hi, I’m Alexandra
-- 🤓  Second year frontend and mobile development student at Kristiania University College
-- 🌱  Currently learning Java, OOP, JavaScript, React, Bootstraps, Bulma CSS, interface design, prototyping, and micro-animation
+- 🤓  Third year frontend and mobile development student at Kristiania University College
+- 🌱  Currently learning cross-platform and iOS development
+- 🚀  Junior developer @ [Guilty](https://guilty.no/)
 
 ## 📫  Get in touch
 <img align="left" alt="LinkedIn" width="22px" src="https://icons-for-free.com/iconfiles/png/512/in+linkedin+icon-1320192022493255796.png" />[www.linkedin.com/in/bakeralexandra](https://www.linkedin.com/in/bakeralexandra)
@@ -19,6 +20,9 @@
   <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
+  <img alt="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg" width="32" />
+  <img alt="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="32" />
+  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" />
   <img alt="Bulma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="32"/>
   <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
   <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>
