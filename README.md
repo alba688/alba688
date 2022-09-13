@@ -4,7 +4,7 @@
 ## 👋  Hi, I’m Alexandra
 - 🤓  Third year frontend and mobile development student at Kristiania University College
 - 🌱  Currently learning cross-platform and iOS development
-- 🚀  Junior developer @ [Guilty](https://guilty.no/)
+- 🚀  Junior developer @ [Guilty](https://github.com/guilty-as)
 
 ## 📫  Get in touch
 <img align="left" alt="LinkedIn" width="22px" src="https://icons-for-free.com/iconfiles/png/512/in+linkedin+icon-1320192022493255796.png" />[www.linkedin.com/in/bakeralexandra](https://www.linkedin.com/in/bakeralexandra)
