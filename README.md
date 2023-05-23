@@ -2,8 +2,8 @@
 
 
 ## 👋  Hi, I’m Alexandra
-- 🤓  Third year frontend and mobile development student at Kristiania University College
-- 🌱  Currently learning cross-platform and iOS development
+- 🤓  Frontend and mobile development student at Kristiania University College
+- 🌱  Currently working on my bachelor project, a streetlight reporting system for Eviny. [Check it out!](https://meld-feilen.vercel.app/)
 - 🚀  Junior developer @ [Guilty](https://github.com/guilty-as)
 
 ## 📫  Get in touch
