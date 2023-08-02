@@ -7,10 +7,13 @@
 - 🔋  Powered by good music and black coffee
 
 ## 📫  Get in touch
+
+
+
 <img align="left" alt="LinkedIn" width="22px" src="https://icons-for-free.com/iconfiles/png/512/in+linkedin+icon-1320192022493255796.png" />[www.linkedin.com/in/bakeralexandra](https://www.linkedin.com/in/bakeralexandra)
 <br>
 <br>
-<img align="left" alt="Outlook" width="22px" src="https://findicons.com/files/icons/2795/office_2013_hd/128/outlook.png" /> <a href = "mailto: ab@kvikna.no">ab@kvikna.no</a>
+<img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" /> <a href = "mailto: ab@kvikna.no">ab@kvikna.no</a>
 <br>
 
 ## Languages and tools I know:
